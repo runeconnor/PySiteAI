@@ -1,0 +1,534 @@
+cooktops category under appliances category
+dishwashers category under appliances category
+freezers category under appliances category
+ice makers category under appliances category
+range hoods category under appliances category
+ranges category under appliances category
+refrigerators category under appliances category
+wall ovens category under appliances category
+warming drawers category under appliances category
+washers dryers category under appliances category
+wine cellars category under appliances category
+books comics category under apps games category
+business category under apps games category
+communication category under apps games category
+customization category under apps games category
+education category under apps games category
+finance category under apps games category
+food drink category under apps games category
+games category under apps games category
+health fitness category under apps games category
+kids category under apps games category
+lifestyle category under apps games category
+local category under apps games category
+magazines category under apps games category
+medical category under apps games category
+movies tv category under apps games category
+music audio category under apps games category
+news category under apps games category
+novelty category under apps games category
+photo video category under apps games category
+productivity category under apps games category
+reference category under apps games category
+shopping category under apps games category
+social category under apps games category
+sports category under apps games category
+transportation category under apps games category
+travel category under apps games category
+utilities category under apps games category
+weather category under apps games category
+arts category under arts crafts sewing category
+beading jewelry making category under arts crafts sewing category
+craft supplies category under arts crafts sewing category
+fabric category under arts crafts sewing category
+fabric painting dyeing category under arts crafts sewing category
+knitting crochet category under arts crafts sewing category
+needlework category under arts crafts sewing category
+organization storage category under arts crafts sewing category
+painting drawing art supplies category under arts crafts sewing category
+photo transfer coloring supplies category under arts crafts sewing category
+printmaking category under arts crafts sewing category
+scrapbooking category under arts crafts sewing category
+sewing category under arts crafts sewing category
+thread floss category under arts crafts sewing category
+yarn category under arts crafts sewing category
+arts entertainment category under audiobooks category
+biographies memoirs category under audiobooks category
+business careers category under audiobooks category
+childrens audiobooks category under audiobooks category
+comedy humor category under audiobooks category
+computers technology category under audiobooks category
+education learning category under audiobooks category
+erotica category under audiobooks category
+health wellness category under audiobooks category
+history category under audiobooks category
+home garden category under audiobooks category
+lgbtq+ category under audiobooks category
+literature fiction category under audiobooks category
+money finance category under audiobooks category
+mystery thriller suspense category under audiobooks category
+politics social sciences category under audiobooks category
+relationships parenting personal development category under audiobooks category
+religion spirituality category under audiobooks category
+romance category under audiobooks category
+science engineering category under audiobooks category
+science fiction fantasy category under audiobooks category
+sports outdoors category under audiobooks category
+teen young adult category under audiobooks category
+travel tourism category under audiobooks category
+car care category under automotive category
+exterior accessories category under automotive category
+interior accessories category under automotive category
+light lighting accessories category under automotive category
+motorcycle atv category under automotive category
+oils fluids category under automotive category
+paint paint supplies category under automotive category
+performance parts accessories category under automotive category
+replacement parts category under automotive category
+rv parts accessories category under automotive category
+tools equipment category under automotive category
+jump starters category under tools equipment category under automotive category
+wheels tires category under automotive category
+activity entertainment category under baby category
+car seats category under baby category
+care category under baby category
+diapering category under baby category
+feeding category under baby category
+for moms category under baby category
+gifts category under baby category
+nursery category under baby category
+potty training category under baby category
+safety category under baby category
+strollers category under baby category
+travel gear category under baby category
+beauty personal care category
+foot hand nail care category under beauty personal care category
+fragrance category under beauty personal care category
+gift sets category under beauty personal care category
+hair care category under beauty personal care category
+makeup category under beauty personal care category
+personal care category under beauty personal care category
+salon spa equipment category under beauty personal care category
+shave hair removal category under beauty personal care category
+skin care category under beauty personal care category
+tools accessories category under beauty personal care category
+arts photography category under books category
+biographies memoirs category under books category
+books on cd category under books category
+business money category under books category
+calendars category under books category
+childrens books category under books category
+christian books bibles category under books category
+comics graphic novels category under books category
+computers technology category under books category
+cookbooks food wine category under books category
+crafts hobbies home category under books category
+deals in books category under books category
+education teaching category under books category
+engineering transportation category under books category
+health fitness dieting category under books category
+history category under books category
+humor entertainment category under books category
+law category under books category
+lesbian gay bisexual transgender books category under books category
+literature fiction category under books category
+medical books category under books category
+mystery thriller suspense category under books category
+parenting relationships category under books category
+politics social sciences category under books category
+reference category under books category
+religion spirituality category under books category
+romance category under books category
+science fiction fantasy category under books category
+science math category under books category
+selfhelp category under books category
+sports outdoors category under books category
+teens category under books category
+test preparation category under books category
+textbooks category under books category
+travel category under books category
+accessories category under camera photo category
+bags cases category under camera photo category
+binoculars scopes category under camera photo category
+camcorders category under camera photo category
+digital picture frames category under camera photo category
+dslr cameras category under camera photo category
+lenses category under camera photo category
+point shoot digital cameras category under camera photo category
+surveillance cameras category under camera photo category
+alternative rock category under cds vinyl category
+blues category under cds vinyl category
+broadway vocalists category under cds vinyl category
+childrens music category under cds vinyl category
+christian category under cds vinyl category
+classic rock category under cds vinyl category
+classical category under cds vinyl category
+country category under cds vinyl category
+dance electronic category under cds vinyl category
+folk category under cds vinyl category
+gospel category under cds vinyl category
+hard rock metal category under cds vinyl category
+indie lofi category under cds vinyl category
+international music category under cds vinyl category
+jazz category under cds vinyl category
+latin music category under cds vinyl category
+miscellaneous category under cds vinyl category
+new age category under cds vinyl category
+opera vocal category under cds vinyl category
+pop category under cds vinyl category
+rap hiphop category under cds vinyl category
+rb category under cds vinyl category
+rock category under cds vinyl category
+soundtracks category under cds vinyl category
+accessories category under cell phones accessories category
+cases holsters clips category under cell phones accessories category
+cellphones category under cell phones accessories category
+sim cards prepaid minutes category under cell phones accessories category
+apparel category under climate pledge friendly category
+beauty category under climate pledge friendly category
+computers category under climate pledge friendly category
+electronics category under climate pledge friendly category
+grocery category under climate pledge friendly category
+health household category under climate pledge friendly category
+baby category under clothing shoes jewelry category
+boys category under clothing shoes jewelry category
+costumes accessories category under clothing shoes jewelry category
+girls category under clothing shoes jewelry category
+men category under clothing shoes jewelry category
+novelty more category under clothing shoes jewelry category
+shoe jewelry watch accessories category under clothing shoes jewelry category
+sport specific clothing category under clothing shoes jewelry category
+uniforms work safety category under clothing shoes jewelry category
+women category under clothing shoes jewelry category
+coin sets category under collectible coins category
+individual coins category under collectible coins category
+accessories peripherals category under computers accessories category
+computer components category under computers accessories category
+data storage category under computers accessories category
+desktops category under computers accessories category
+external components category under computers accessories category
+laptop accessories category under computers accessories category
+laptops category under computers accessories category
+monitors category under computers accessories category
+networking products category under computers accessories category
+printers category under computers accessories category
+routers category under computers accessories category
+scanners category under computers accessories category
+servers category under computers accessories category
+tablet accessories category under computers accessories category
+tablets category under computers accessories category
+warranties services category under computers accessories category
+albums category under digital music category
+songs category under digital music category
+accessories supplies category under electronics category
+camera photo category under electronics category
+car electronics category under electronics category
+cell phones accessories category under electronics category
+computers accessories category under electronics category
+ebook readers accessories category under electronics category
+gps navigation category under electronics category
+headphones category under electronics category
+home audio theater category under electronics category
+marine electronics category under electronics category
+office electronics category under electronics category
+portable audio video category under electronics category
+security surveillance category under electronics category
+service replacement plans category under electronics category
+televisions video category under electronics category
+video game consoles accessories category under electronics category
+video projectors category under electronics category
+wearable technology category under electronics category
+animation category under entertainment collectibles category
+apparel category under entertainment collectibles category
+artwork by celebrities category under entertainment collectibles category
+backstage passes category under entertainment collectibles category
+books category under entertainment collectibles category
+comic art category under entertainment collectibles category
+comic books category under entertainment collectibles category
+contracts category under entertainment collectibles category
+correspondence category under entertainment collectibles category
+cut signatures category under entertainment collectibles category
+figurines category under entertainment collectibles category
+flyers category under entertainment collectibles category
+framed record award sets category under entertainment collectibles category
+lobby cards category under entertainment collectibles category
+magazines category under entertainment collectibles category
+movies music category under entertainment collectibles category
+musical instruments category under entertainment collectibles category
+photographs category under entertainment collectibles category
+plates category under entertainment collectibles category
+playbills category under entertainment collectibles category
+postcards category under entertainment collectibles category
+prints posters category under entertainment collectibles category
+programs category under entertainment collectibles category
+props category under entertainment collectibles category
+publicity photo cards category under entertainment collectibles category
+scripts category under entertainment collectibles category
+sheet music category under entertainment collectibles category
+signed personal checks category under entertainment collectibles category
+ticket stubs category under entertainment collectibles category
+trading cards category under entertainment collectibles category
+alcoholic beverages category under grocery gourmet food category
+baby foods category under grocery gourmet food category
+beverages category under grocery gourmet food category
+breads bakery category under grocery gourmet food category
+breakfast cereal category under grocery gourmet food category
+breakfast foods category under grocery gourmet food category
+dairy eggs plantbased alternatives category under grocery gourmet food category
+deli prepared foods category under grocery gourmet food category
+food beverage gifts category under grocery gourmet food category
+fresh flowers live indoor plants category under grocery gourmet food category
+frozen category under grocery gourmet food category
+home brewing winemaking category under grocery gourmet food category
+meat seafood category under grocery gourmet food category
+meat substitutes category under grocery gourmet food category
+pantry staples category under grocery gourmet food category
+produce category under grocery gourmet food category
+snacks sweets category under grocery gourmet food category
+baby category under handmade category
+beauty grooming category under handmade category
+clothing shoes accessories category under handmade category
+electronics accessories category under handmade category
+health personal care category under handmade category
+home kitchen category under handmade category
+jewelry category under handmade category
+pet supplies category under handmade category
+sports outdoors category under handmade category
+stationery party supplies category under handmade category
+toys games category under handmade category
+baby child care category under health household category
+diet sports nutrition category under health household category
+health care category under health household category
+house supplies category under health household category
+medical supplies equipment category under health household category
+oral care category under health household category
+personal care category under health household category
+sales deals category under health household category
+sexual wellness category under health household category
+sports nutrition category under health household category
+vision care category under health household category
+vitamins minerals supplements category under health household category
+wellness relaxation category under health household category
+bath category under home kitchen category
+bedding category under home kitchen category
+cleaning supplies category under home kitchen category
+furniture category under home kitchen category
+heating cooling air quality category under home kitchen category
+home dcor category under home kitchen category
+irons steamers category under home kitchen category
+kids home store category under home kitchen category
+kitchen dining category under home kitchen category
+seasonal dcor category under home kitchen category
+storage organization category under home kitchen category
+vacuums floor care category under home kitchen category
+wall dcor category under home kitchen category
+abrasive finishing products category under industrial scientific category
+additive manufacturing products category under industrial scientific category
+commercial door products category under industrial scientific category
+commercial lighting category under industrial scientific category
+cutting tools category under industrial scientific category
+digital signage category under industrial scientific category
+fasteners category under industrial scientific category
+filtration category under industrial scientific category
+food service equipment supplies category under industrial scientific category
+hydraulics pneumatics plumbing category under industrial scientific category
+industrial electrical category under industrial scientific category
+industrial hardware category under industrial scientific category
+janitorial sanitation supplies category under industrial scientific category
+lab scientific products category under industrial scientific category
+material handling products category under industrial scientific category
+occupational health safety products category under industrial scientific category
+packaging shipping supplies category under industrial scientific category
+power hand tools category under industrial scientific category
+power transmission products category under industrial scientific category
+professional dental supplies category under industrial scientific category
+professional medical supplies category under industrial scientific category
+raw materials category under industrial scientific category
+retail store fixtures equipment category under industrial scientific category
+robotics category under industrial scientific category
+science education category under industrial scientific category
+test measure inspect category under industrial scientific category
+bakeware category under kitchen dining category
+bar tools drinkware category under kitchen dining category
+coffee tea espresso appliances category under kitchen dining category
+cookware category under kitchen dining category
+dining entertaining category under kitchen dining category
+glassware drinkware category under kitchen dining category
+home brewing wine making category under kitchen dining category
+kitchen table linens category under kitchen dining category
+kitchen utensils gadgets category under kitchen dining category
+small appliances category under kitchen dining category
+storage organization category under kitchen dining category
+wine accessories category under kitchen dining category
+arts crafts category under magazine category
+automotive category under magazine category
+bridal weddings category under magazine category
+business finance category under magazine category
+childrens category under magazine category
+computer internet category under magazine category
+electronics audio category under magazine category
+entertainment category under magazine category
+family parenting category under magazine category
+fashion style category under magazine category
+food gourmet category under magazine category
+gay lesbian category under magazine category
+health fitness category under magazine category
+history category under magazine category
+home garden category under magazine category
+literary category under magazine category
+mens interest category under magazine category
+music category under magazine category
+news politics category under magazine category
+pets category under magazine category
+puzzles games category under magazine category
+religion spirituality category under magazine category
+science nature category under magazine category
+sports leisure category under magazine category
+teens category under magazine category
+travel regional category under magazine category
+womens interest category under magazine category
+bluray category under movies tv category
+dvd category under movies tv category
+streaming services category under movies tv category
+musical instruments category
+band orchestra category under musical instruments category
+bass guitars category under musical instruments category
+dj electronic music karaoke category under musical instruments category
+drums percussion category under musical instruments category
+guitars category under musical instruments category
+instrument accessories category under musical instruments category
+keyboards category under musical instruments category
+live sound stage category under musical instruments category
+recording equipment category under musical instruments category
+ukuleles mandolins banjos category under musical instruments category
+education crafts category under office products category
+envelopes mailers shipping supplies category under office products category
+office electronics category under office products category
+office furniture accessories category under office products category
+office lighting category under office products category
+office supplies category under office products category
+presentation boards category under office products category
+farm ranch category under patio lawn garden category
+gardening category under patio lawn garden category
+generators portable power category under patio lawn garden category
+grills outdoor cooking category under patio lawn garden category
+mowers outdoor power tools category under patio lawn garden category
+outdoor dcor category under patio lawn garden category
+outdoor heating category under patio lawn garden category
+outdoor storage category under patio lawn garden category
+patio furniture accessories category under patio lawn garden category
+pest control category under patio lawn garden category
+pools hot tubs supplies category under patio lawn garden category
+snow removal category under patio lawn garden category
+birds category under pet supplies category
+cats category under pet supplies category
+dogs category under pet supplies category
+fish aquatic pets category under pet supplies category
+horses category under pet supplies category
+reptiles amphibians category under pet supplies category
+small animals category under pet supplies category
+accounting finance category under software category
+antivirus security category under software category
+business office category under software category
+childrens software category under software category
+design illustration category under software category
+education reference category under software category
+lifestyle hobbies category under software category
+mac software category under software category
+music category under software category
+networking servers category under software category
+operating systems category under software category
+photography category under software category
+programming web development category under software category
+tax preparation category under software category
+utilities category under software category
+video category under software category
+balls category under sports collectibles category
+baseball bases category under sports collectibles category
+bats category under sports collectibles category
+bobbleheads category under sports collectibles category
+books category under sports collectibles category
+clothing uniforms category under sports collectibles category
+cut signatures category under sports collectibles category
+diecast cars category under sports collectibles category
+figurines category under sports collectibles category
+flags banners category under sports collectibles category
+gloves category under sports collectibles category
+golf clubs category under sports collectibles category
+hats category under sports collectibles category
+helmets category under sports collectibles category
+hockey pucks category under sports collectibles category
+hockey sticks blades category under sports collectibles category
+jerseys category under sports collectibles category
+lineup cards category under sports collectibles category
+magazines category under sports collectibles category
+personal checks category under sports collectibles category
+photographs category under sports collectibles category
+postcards index cards category under sports collectibles category
+prints posters category under sports collectibles category
+publications media category under sports collectibles category
+shoes category under sports collectibles category
+stadium components category under sports collectibles category
+ticket stubs category under sports collectibles category
+trading cards category under sports collectibles category
+trophies category under sports collectibles category
+accessories category under sports outdoors category
+exercise fitness category under sports outdoors category
+fan shop category under sports outdoors category
+hunting fishing category under sports outdoors category
+memorabilia display storage category under sports outdoors category
+outdoor recreation category under sports outdoors category
+sports category under sports outdoors category
+sports medicine category under sports outdoors category
+air tools category under tools home improvement category
+appliances category under tools home improvement category
+building supplies category under tools home improvement category
+electrical category under tools home improvement category
+hardware category under tools home improvement category
+kitchen bath fixtures category under tools home improvement category
+lighting ceiling fans category under tools home improvement category
+measuring layout tools category under tools home improvement category
+paint wall treatments supplies category under tools home improvement category
+power hand tools category under tools home improvement category
+rough plumbing category under tools home improvement category
+safety security category under tools home improvement category
+storage home organization category under tools home improvement category
+action toy figures category under toys games category
+arts crafts category under toys games category
+baby toddler toys category under toys games category
+bikes skates rideons category under toys games category
+building construction toys category under toys games category
+collectible card games category under toys games category
+dolls accessories category under toys games category
+dressing up costumes category under toys games category
+electronics for kids category under toys games category
+games category under toys games category
+learning education category under toys games category
+musical instruments category under toys games category
+novelty gag toys category under toys games category
+party supplies category under toys games category
+play vehicles category under toys games category
+preschool category under toys games category
+puppets puppet theaters category under toys games category
+puzzles category under toys games category
+remote appcontrolled toys category under toys games category
+sports outdoor play category under toys games category
+stuffed animals toys category under toys games category
+mac games category under video games category
+microconsoles category under video games category
+more systems category under video games category
+nintendo 3ds 2ds category under video games category
+nintendo ds category under video games category
+nintendo switch category under video games category
+pc games category under video games category
+playstation 3 category under video games category
+playstation 4 category under video games category
+playstation 5 category under video games category
+playstation vita category under video games category
+sony psp category under video games category
+virtual reality category under video games category
+wii category under video games category
+wii u category under video games category
+xbox 360 category under video games category
+xbox one category under video games category
+xbox series x category under video games category
